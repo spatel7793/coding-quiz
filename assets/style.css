@@ -1,0 +1,47 @@
+body {
+    background-color: #f2f2f2; 
+}
+
+h1, 
+h2 {
+    color: #1f63c9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: #3290A6;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover {
+    color:#0f0961    
+}
+
+.btn:focus, .btn:active, .btn:visited {
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: #0f0961;
+}
+
+#finalScore {
+    font-family:Georgia, 'Times New Roman', Times, serif
+    font-weight: bold;
+}
+
+span {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+#questionTitle {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#answerCheck {
+    font-style: italic;
+    color: #27a37e;
+}
